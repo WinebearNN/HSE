@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World, I wanna be a programmer" );
+        System.out.println( "Create changes into branch (temp)" );
     }
 }
